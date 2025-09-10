@@ -22,3 +22,9 @@ cd java-project
 # Compile & Run
 javac *.java
 java ATM
+
+| Customer Number | PIN    |
+| --------------- | ------ |
+| 952141          | 191904 |
+| 989947          | 717976 |
+
